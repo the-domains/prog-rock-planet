@@ -1,4 +1,3 @@
-layout_spectrum: 0.2270872292574495
 typography_spectrum: 0.3531571929343045
 color:
   brandStrength: 0.3464183476753533
@@ -6,9 +5,11 @@ color:
   saturation: 0.4470184100791812
   rhythmicContrast: 0.7367954831570387
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.2270872292574495
 name: Prog Rock Planet
+title: PROG's COOLEST SITE
